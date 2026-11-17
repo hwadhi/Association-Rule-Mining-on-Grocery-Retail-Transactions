@@ -1,0 +1,726 @@
+itemset,length,support,basket_count
+mineral water,1,0.23836821757099053,1788
+eggs,1,0.17970937208372217,1348
+spaghetti,1,0.17411011865084655,1306
+french fries,1,0.1709105452606319,1282
+chocolate,1,0.1638448206905746,1229
+green tea,1,0.13211571790427942,991
+milk,1,0.12958272230369283,972
+ground beef,1,0.09825356619117451,737
+frozen vegetables,1,0.09532062391681109,715
+pancakes,1,0.09505399280095987,713
+burgers,1,0.0871883748833489,654
+cake,1,0.08105585921877083,608
+cookies,1,0.08038928142914278,603
+escalope,1,0.0793227569657379,595
+low fat yogurt,1,0.07652313024930009,574
+shrimp,1,0.07145713904812692,536
+tomatoes,1,0.06839088121583789,513
+olive oil,1,0.0658578856152513,494
+frozen smoothie,1,0.06332489001466471,475
+turkey,1,0.06252499666711105,469
+chicken,1,0.05999200106652446,450
+mineral water + spaghetti,2,0.05972536995067324,448
+whole wheat rice,1,0.058525529929342755,439
+chocolate + mineral water,2,0.05265964538061592,395
+grated cheese,1,0.0523930142647647,393
+cooking oil,1,0.0510598586855086,383
+eggs + mineral water,2,0.05092654312758299,382
+soup,1,0.05052659645380616,379
+herb & pepper,1,0.04946007199040128,371
+milk + mineral water,2,0.04799360085321957,360
+honey,1,0.047460338621517134,356
+champagne,1,0.04679376083188908,351
+fresh bread,1,0.043060925209972005,323
+salmon,1,0.04252766297826956,319
+ground beef + mineral water,2,0.040927876283162246,307
+chocolate + spaghetti,2,0.03919477403012932,294
+ground beef + spaghetti,2,0.03919477403012932,294
+eggs + spaghetti,2,0.036528462871617116,274
+eggs + french fries,2,0.036395147313691506,273
+frozen vegetables + mineral water,2,0.03572856952406346,268
+milk + spaghetti,2,0.03546193840821224,266
+chocolate + french fries,2,0.03439541394480736,258
+brownies,1,0.03372883615517931,253
+french fries + mineral water,2,0.03372883615517931,253
+mineral water + pancakes,2,0.03372883615517931,253
+avocado,1,0.03332888948140248,250
+chocolate + eggs,2,0.03319557392347687,249
+hot dogs,1,0.03239568057592321,243
+chocolate + milk,2,0.03212904946007199,241
+cottage cheese,1,0.03186241834422077,239
+green tea + mineral water,2,0.03106252499666711,233
+eggs + milk,2,0.03079589388081589,231
+tomato juice,1,0.030395947207039063,228
+butter,1,0.030129316091187842,226
+whole wheat pasta,1,0.029462738301559793,221
+burgers + eggs,2,0.02879616051193174,216
+french fries + green tea,2,0.028529529396080524,214
+red wine,1,0.028129582722303693,211
+frozen vegetables + spaghetti,2,0.027862951606452472,209
+french fries + spaghetti,2,0.027596320490601255,207
+mineral water + olive oil,2,0.027596320490601255,207
+cake + mineral water,2,0.027463004932675644,206
+yogurt cake,1,0.027329689374750034,205
+light mayo,1,0.027196373816824423,204
+energy bar,1,0.027063058258898813,203
+energy drink,1,0.026663111585121985,200
+ham,1,0.026529796027196375,199
+pepper,1,0.026529796027196375,199
+green tea + spaghetti,2,0.026529796027196375,199
+cereals,1,0.025729902679642713,193
+vegetables mix,1,0.025729902679642713,193
+eggs + green tea,2,0.025463271563791495,191
+pancakes + spaghetti,2,0.025196640447940274,189
+burgers + mineral water,2,0.024396747100386616,183
+mineral water + tomatoes,2,0.024396747100386616,183
+muffins,1,0.024130115984535395,181
+low fat yogurt + mineral water,2,0.023996800426609784,180
+french fries + milk,2,0.023730169310758567,178
+frozen vegetables + milk,2,0.023596853752832957,177
+mineral water + shrimp,2,0.023596853752832957,177
+chocolate + green tea,2,0.023463538194907346,176
+oil,1,0.023063591521130515,173
+chocolate + ground beef,2,0.023063591521130515,173
+mineral water + soup,2,0.023063591521130515,173
+chocolate + frozen vegetables,2,0.022930275963204905,172
+olive oil + spaghetti,2,0.022930275963204905,172
+chicken + mineral water,2,0.022796960405279298,171
+french wine,1,0.022530329289428077,169
+fresh tuna,1,0.022263698173576856,167
+burgers + french fries,2,0.021997067057725635,165
+ground beef + milk,2,0.021997067057725635,165
+eggs + frozen vegetables,2,0.021730435941874418,163
+eggs + pancakes,2,0.021730435941874418,163
+burgers + spaghetti,2,0.021463804826023197,161
+strawberries,1,0.021330489268097587,160
+shrimp + spaghetti,2,0.021197173710171976,159
+meatballs,1,0.020930542594320756,157
+spaghetti + tomatoes,2,0.020930542594320756,157
+almonds,1,0.020397280362618318,153
+frozen smoothie + mineral water,2,0.020263964804692707,152
+cooking oil + mineral water,2,0.020130649246767097,151
+french fries + pancakes,2,0.020130649246767097,151
+mineral water + whole wheat rice,2,0.020130649246767097,151
+eggs + ground beef,2,0.019997333688841486,150
+parmesan cheese,1,0.01986401813091588,149
+chocolate + pancakes,2,0.01986401813091588,149
+eggs + turkey,2,0.01946407145713905,146
+mineral water + turkey,2,0.019197440341287828,144
+mushroom cream sauce,1,0.019064124783362217,143
+cake + eggs,2,0.019064124783362217,143
+french fries + frozen vegetables,2,0.019064124783362217,143
+rice,1,0.018797493667511,141
+protein bar,1,0.01853086255165978,139
+cake + spaghetti,2,0.018130915877882948,136
+chocolate + shrimp,2,0.017997600319957337,135
+burgers + milk,2,0.01786428476203173,134
+cake + french fries,2,0.01786428476203173,134
+chocolate + escalope,2,0.01759765364618051,132
+green tea + milk,2,0.01759765364618051,132
+milk + shrimp,2,0.01759765364618051,132
+mint,1,0.0174643380882549,131
+burgers + green tea,2,0.0174643380882549,131
+grated cheese + mineral water,2,0.0174643380882549,131
+chicken + spaghetti,2,0.01719770697240368,129
+burgers + chocolate,2,0.017064391414478068,128
+escalope + mineral water,2,0.017064391414478068,128
+herb & pepper + mineral water,2,0.017064391414478068,128
+milk + olive oil,2,0.017064391414478068,128
+mineral water + salmon,2,0.017064391414478068,128
+ground beef + mineral water + spaghetti,3,0.017064391414478068,128
+frozen vegetables + ground beef,2,0.01693107585655246,127
+eggs + low fat yogurt,2,0.01679776029862685,126
+frozen vegetables + shrimp,2,0.01666444474070124,125
+white wine,1,0.01653112918277563,124
+grated cheese + spaghetti,2,0.01653112918277563,124
+milk + pancakes,2,0.01653112918277563,124
+spaghetti + turkey,2,0.01653112918277563,124
+chocolate + olive oil,2,0.01639781362485002,123
+escalope + french fries,2,0.01639781362485002,123
+green tea + pancakes,2,0.01639781362485002,123
+herb & pepper + spaghetti,2,0.01626449806692441,122
+frozen vegetables + tomatoes,2,0.0161311825089988,121
+ground beef + herb & pepper,2,0.015997866951073192,120
+cooking oil + spaghetti,2,0.01586455139314758,119
+chocolate + mineral water + spaghetti,3,0.01586455139314758,119
+pasta,1,0.01573123583522197,118
+milk + mineral water + spaghetti,3,0.01573123583522197,118
+light cream,1,0.01559792027729636,117
+frozen smoothie + spaghetti,2,0.01559792027729636,117
+carrots,1,0.01533128916144514,115
+low fat yogurt + spaghetti,2,0.015197973603519531,114
+milk + soup,2,0.015197973603519531,114
+honey + mineral water,2,0.015064658045593921,113
+chocolate + frozen smoothie,2,0.01493134248766831,112
+chicken + milk,2,0.014798026929742702,111
+chocolate + low fat yogurt,2,0.014798026929742702,111
+green tea + ground beef,2,0.014798026929742702,111
+chicken + chocolate,2,0.014664711371817091,110
+french fries + frozen smoothie,2,0.014531395813891481,109
+ground beef + pancakes,2,0.014531395813891481,109
+chicken + eggs,2,0.01439808025596587,108
+frozen vegetables + green tea,2,0.01439808025596587,108
+black tea,1,0.014264764698040262,107
+frozen smoothie + milk,2,0.014264764698040262,107
+soup + spaghetti,2,0.014264764698040262,107
+eggs + mineral water + spaghetti,3,0.014264764698040262,107
+tomato sauce,1,0.014131449140114652,106
+cake + green tea,2,0.014131449140114652,106
+eggs + shrimp,2,0.014131449140114652,106
+ground beef + olive oil,2,0.014131449140114652,106
+spaghetti + whole wheat rice,2,0.014131449140114652,106
+chocolate + tomatoes,2,0.013998133582189041,105
+escalope + spaghetti,2,0.013998133582189041,105
+milk + tomatoes,2,0.013998133582189041,105
+chocolate + milk + mineral water,3,0.013998133582189041,105
+french fries + ground beef,2,0.01386481802426343,104
+fromage blanc,1,0.013598186908412212,102
+cake + chocolate,2,0.013598186908412212,102
+chocolate + cooking oil,2,0.013598186908412212,102
+gums,1,0.013464871350486601,101
+frozen vegetables + pancakes,2,0.013464871350486601,101
+salmon + spaghetti,2,0.013464871350486601,101
+chocolate + eggs + mineral water,3,0.013464871350486601,101
+cake + milk,2,0.013331555792560993,100
+cookies + french fries,2,0.013331555792560993,100
+french fries + low fat yogurt,2,0.013331555792560993,100
+fresh bread + mineral water,2,0.013331555792560993,100
+eggplant,1,0.013198240234635382,99
+low fat yogurt + milk,2,0.013198240234635382,99
+eggs + milk + mineral water,3,0.013064924676709772,98
+eggs + herb & pepper,2,0.012531662445007332,94
+eggs + tomatoes,2,0.012265031329156113,92
+green tea + tomatoes,2,0.012265031329156113,92
+extra dark chocolate,1,0.011998400213304892,90
+melons,1,0.011998400213304892,90
+burgers + ground beef,2,0.011998400213304892,90
+chocolate + whole wheat rice,2,0.011998400213304892,90
+cookies + green tea,2,0.011998400213304892,90
+eggs + olive oil,2,0.011998400213304892,90
+french fries + tomatoes,2,0.011998400213304892,90
+frozen vegetables + mineral water + spaghetti,3,0.011998400213304892,90
+cake + pancakes,2,0.011865084655379284,89
+chicken + green tea,2,0.011865084655379284,89
+green tea + turkey,2,0.011865084655379284,89
+honey + spaghetti,2,0.011865084655379284,89
+milk + whole wheat rice,2,0.011865084655379284,89
+cooking oil + eggs,2,0.011731769097453673,88
+ground beef + tomatoes,2,0.011731769097453673,88
+avocado + mineral water,2,0.011598453539528063,87
+champagne + chocolate,2,0.011598453539528063,87
+body spray,1,0.011465137981602452,86
+yams,1,0.011465137981602452,86
+burgers + cake,2,0.011465137981602452,86
+cooking oil + milk,2,0.011465137981602452,86
+green tea + shrimp,2,0.011465137981602452,86
+ground beef + shrimp,2,0.011465137981602452,86
+mineral water + pancakes + spaghetti,3,0.011465137981602452,86
+chocolate + turkey,2,0.011331822423676844,85
+frozen vegetables + olive oil,2,0.011331822423676844,85
+grated cheese + ground beef,2,0.011331822423676844,85
+milk + turkey,2,0.011331822423676844,85
+frozen smoothie + green tea,2,0.011198506865751233,84
+shrimp + tomatoes,2,0.011198506865751233,84
+chicken + french fries,2,0.011065191307825623,83
+eggs + escalope,2,0.011065191307825623,83
+eggs + frozen smoothie,2,0.011065191307825623,83
+frozen vegetables + milk + mineral water,3,0.011065191307825623,83
+ground beef + milk + mineral water,3,0.011065191307825623,83
+magazines,1,0.010931875749900012,82
+chocolate + grated cheese,2,0.010931875749900012,82
+eggs + whole wheat rice,2,0.010931875749900012,82
+mineral water + red wine,2,0.010931875749900012,82
+chocolate + ground beef + mineral water,3,0.010931875749900012,82
+chocolate + milk + spaghetti,3,0.010931875749900012,82
+barbecue sauce,1,0.010798560191974404,81
+olive oil + pancakes,2,0.010798560191974404,81
+burgers + turkey,2,0.010665244634048793,80
+chocolate + salmon,2,0.010665244634048793,80
+french fries + turkey,2,0.010665244634048793,80
+cider,1,0.010531929076123183,79
+burgers + frozen vegetables,2,0.010531929076123183,79
+burgers + pancakes,2,0.010531929076123183,79
+cookies + eggs,2,0.010531929076123183,79
+french fries + whole wheat rice,2,0.010531929076123183,79
+pancakes + shrimp,2,0.010531929076123183,79
+chocolate + eggs + spaghetti,3,0.010531929076123183,79
+nonfat milk,1,0.010398613518197574,78
+chocolate + cookies,2,0.010398613518197574,78
+french fries + grated cheese,2,0.010398613518197574,78
+cake + frozen vegetables,2,0.010265297960271964,77
+cereals + mineral water,2,0.010265297960271964,77
+red wine + spaghetti,2,0.010265297960271964,77
+mineral water + olive oil + spaghetti,3,0.010265297960271964,77
+chocolate + soup,2,0.010131982402346354,76
+frozen vegetables + low fat yogurt,2,0.010131982402346354,76
+eggs + ground beef + mineral water,3,0.010131982402346354,76
+french fries + mineral water + spaghetti,3,0.010131982402346354,76
+french fries + shrimp,2,0.009998666844420743,75
+frozen smoothie + frozen vegetables,2,0.009998666844420743,75
+green tea + olive oil,2,0.009998666844420743,75
+milk + whole wheat pasta,2,0.009865351286495135,74
+pancakes + tomatoes,2,0.009865351286495135,74
+pepper + spaghetti,2,0.009865351286495135,74
+candy bars,1,0.009732035728569524,73
+ground beef + soup,2,0.009732035728569524,73
+milk + salmon,2,0.009732035728569524,73
+chocolate + frozen vegetables + mineral water,3,0.009732035728569524,73
+ground beef + milk + spaghetti,3,0.009732035728569524,73
+brownies + mineral water,2,0.009598720170643914,72
+cottage cheese + mineral water,2,0.009598720170643914,72
+ground beef + low fat yogurt,2,0.009598720170643914,72
+mineral water + tomato juice,2,0.009598720170643914,72
+mineral water + whole wheat pasta,2,0.009598720170643914,72
+pancakes + turkey,2,0.009598720170643914,72
+zucchini,1,0.009465404612718305,71
+chicken + ground beef,2,0.009465404612718305,71
+chocolate + fresh bread,2,0.009465404612718305,71
+low fat yogurt + pancakes,2,0.009465404612718305,71
+whole wheat flour,1,0.009332089054792695,70
+champagne + french fries,2,0.009332089054792695,70
+green tea + honey,2,0.009332089054792695,70
+chocolate + mineral water + pancakes,3,0.009332089054792695,70
+mineral water + spaghetti + tomatoes,3,0.009332089054792695,70
+blueberries,1,0.009198773496867084,69
+salt,1,0.009198773496867084,69
+french fries + olive oil,2,0.009198773496867084,69
+fresh bread + milk,2,0.009198773496867084,69
+ground beef + turkey,2,0.009198773496867084,69
+ham + mineral water,2,0.009198773496867084,69
+ham + spaghetti,2,0.009198773496867084,69
+herb & pepper + milk,2,0.009198773496867084,69
+hot dogs + mineral water,2,0.009198773496867084,69
+chocolate + eggs + milk,3,0.009198773496867084,69
+chocolate + ground beef + spaghetti,3,0.009198773496867084,69
+frozen vegetables + ground beef + mineral water,3,0.009198773496867084,69
+flax seed,1,0.009065457938941474,68
+green grapes,1,0.009065457938941474,68
+chicken + pancakes,2,0.009065457938941474,68
+chocolate + herb & pepper,2,0.009065457938941474,68
+eggs + grated cheese,2,0.009065457938941474,68
+eggs + soup,2,0.009065457938941474,68
+fresh bread + spaghetti,2,0.009065457938941474,68
+frozen smoothie + pancakes,2,0.009065457938941474,68
+frozen vegetables + whole wheat rice,2,0.009065457938941474,68
+green tea + whole wheat rice,2,0.009065457938941474,68
+burgers + eggs + french fries,3,0.009065457938941474,68
+eggs + frozen vegetables + mineral water,3,0.009065457938941474,68
+antioxidant juice,1,0.008932142381015865,67
+burgers + whole wheat rice,2,0.008932142381015865,67
+chicken + frozen vegetables,2,0.008932142381015865,67
+escalope + green tea,2,0.008932142381015865,67
+french fries + honey,2,0.008932142381015865,67
+ground beef + salmon,2,0.008932142381015865,67
+olive oil + soup,2,0.008932142381015865,67
+eggs + ground beef + spaghetti,3,0.008932142381015865,67
+eggs + milk + spaghetti,3,0.008932142381015865,67
+burgers + shrimp,2,0.008798826823090255,66
+fresh tuna + mineral water,2,0.008798826823090255,66
+frozen vegetables + turkey,2,0.008798826823090255,66
+spaghetti + whole wheat pasta,2,0.008798826823090255,66
+bacon,1,0.008665511265164644,65
+bug spray,1,0.008665511265164644,65
+green beans,1,0.008665511265164644,65
+eggs + fresh bread,2,0.008665511265164644,65
+hot dogs + spaghetti,2,0.008665511265164644,65
+frozen vegetables + ground beef + spaghetti,3,0.008665511265164644,65
+chocolate + french fries + mineral water,3,0.008532195707239034,64
+milk + mineral water + olive oil,3,0.008532195707239034,64
+milk + mineral water + soup,3,0.008532195707239034,64
+mineral water + shrimp + spaghetti,3,0.008532195707239034,64
+clothes accessories,1,0.008398880149313425,63
+cake + tomatoes,2,0.008398880149313425,63
+cooking oil + ground beef,2,0.008398880149313425,63
+chocolate + eggs + french fries,3,0.008398880149313425,63
+burgers + tomatoes,2,0.008265564591387815,62
+butter + chocolate,2,0.008265564591387815,62
+champagne + green tea,2,0.008265564591387815,62
+eggs + salmon,2,0.008265564591387815,62
+escalope + ground beef,2,0.008265564591387815,62
+french fries + fresh bread,2,0.008265564591387815,62
+french wine + mineral water,2,0.008265564591387815,62
+mineral water + pepper,2,0.008265564591387815,62
+chocolate + mineral water + olive oil,3,0.008265564591387815,62
+french fries + milk + mineral water,3,0.008265564591387815,62
+frozen vegetables + milk + spaghetti,3,0.008265564591387815,62
+green tea + mineral water + spaghetti,3,0.008265564591387815,62
+toothpaste,1,0.008132249033462205,61
+cake + ground beef,2,0.008132249033462205,61
+ground beef + whole wheat rice,2,0.008132249033462205,61
+olive oil + shrimp,2,0.008132249033462205,61
+avocado + french fries,2,0.007998933475536596,60
+avocado + spaghetti,2,0.007998933475536596,60
+chocolate + honey,2,0.007998933475536596,60
+cookies + spaghetti,2,0.007998933475536596,60
+frozen vegetables + soup,2,0.007998933475536596,60
+olive oil + whole wheat pasta,2,0.007998933475536596,60
+chocolate + french fries + spaghetti,3,0.007998933475536596,60
+chocolate + frozen vegetables + milk,3,0.007998933475536596,60
+eggs + french fries + spaghetti,3,0.007998933475536596,60
+brownies + french fries,2,0.007865617917610986,59
+cooking oil + french fries,2,0.007865617917610986,59
+cooking oil + pancakes,2,0.007865617917610986,59
+grated cheese + green tea,2,0.007865617917610986,59
+grated cheese + milk,2,0.007865617917610986,59
+mineral water + vegetables mix,2,0.007865617917610986,59
+burgers + eggs + mineral water,3,0.007865617917610986,59
+chocolate + frozen vegetables + spaghetti,3,0.007865617917610986,59
+eggs + mineral water + pancakes,3,0.007865617917610986,59
+milk + mineral water + pancakes,3,0.007865617917610986,59
+milk + mineral water + shrimp,3,0.007865617917610986,59
+shallot,1,0.007732302359685375,58
+strong cheese,1,0.007732302359685375,58
+cake + whole wheat rice,2,0.007732302359685375,58
+escalope + milk,2,0.007732302359685375,58
+french wine + spaghetti,2,0.007732302359685375,58
+honey + milk,2,0.007732302359685375,58
+meatballs + mineral water,2,0.007732302359685375,58
+mineral water + protein bar,2,0.007732302359685375,58
+mineral water + rice,2,0.007732302359685375,58
+almonds + mineral water,2,0.007598986801759766,57
+cake + shrimp,2,0.007598986801759766,57
+escalope + frozen vegetables,2,0.007598986801759766,57
+french fries + soup,2,0.007598986801759766,57
+frozen smoothie + ground beef,2,0.007598986801759766,57
+frozen vegetables + honey,2,0.007598986801759766,57
+green tea + low fat yogurt,2,0.007598986801759766,57
+chicken + chocolate + mineral water,3,0.007598986801759766,57
+chocolate + mineral water + shrimp,3,0.007598986801759766,57
+cooking oil + mineral water + spaghetti,3,0.007598986801759766,57
+avocado + milk,2,0.007465671243834155,56
+champagne + mineral water,2,0.007465671243834155,56
+cookies + mineral water,2,0.007465671243834155,56
+spaghetti + tomato juice,2,0.007465671243834155,56
+ground beef + mineral water + pancakes,3,0.007465671243834155,56
+mineral water + soup + spaghetti,3,0.007465671243834155,56
+brownies + eggs,2,0.007332355685908546,55
+brownies + spaghetti,2,0.007332355685908546,55
+butter + green tea,2,0.007332355685908546,55
+french fries + hot dogs,2,0.007332355685908546,55
+french fries + light mayo,2,0.007332355685908546,55
+frozen smoothie + low fat yogurt,2,0.007332355685908546,55
+frozen smoothie + shrimp,2,0.007332355685908546,55
+herb & pepper + pancakes,2,0.007332355685908546,55
+light cream + mineral water,2,0.007332355685908546,55
+mineral water + oil,2,0.007332355685908546,55
+chocolate + french fries + milk,3,0.007332355685908546,55
+eggs + frozen vegetables + milk,3,0.007332355685908546,55
+burgers + frozen smoothie,2,0.007199040127982935,54
+chicken + olive oil,2,0.007199040127982935,54
+olive oil + tomatoes,2,0.007199040127982935,54
+burgers + eggs + spaghetti,3,0.007199040127982935,54
+cake + eggs + mineral water,3,0.007199040127982935,54
+eggs + french fries + milk,3,0.007199040127982935,54
+frozen vegetables + mineral water + shrimp,3,0.007199040127982935,54
+milk + olive oil + spaghetti,3,0.007199040127982935,54
+spinach,1,0.007065724570057326,53
+avocado + chocolate,2,0.007065724570057326,53
+burgers + escalope,2,0.007065724570057326,53
+cereals + milk,2,0.007065724570057326,53
+cooking oil + green tea,2,0.007065724570057326,53
+eggs + red wine,2,0.007065724570057326,53
+french fries + tomato juice,2,0.007065724570057326,53
+green tea + soup,2,0.007065724570057326,53
+herb & pepper + shrimp,2,0.007065724570057326,53
+turkey + whole wheat rice,2,0.007065724570057326,53
+cake + mineral water + spaghetti,3,0.007065724570057326,53
+chocolate + green tea + spaghetti,3,0.007065724570057326,53
+chocolate + olive oil + spaghetti,3,0.007065724570057326,53
+eggs + french fries + green tea,3,0.007065724570057326,53
+gluten free bar,1,0.006932409012131715,52
+cake + low fat yogurt,2,0.006932409012131715,52
+cake + turkey,2,0.006932409012131715,52
+cottage cheese + spaghetti,2,0.006932409012131715,52
+french fries + herb & pepper,2,0.006932409012131715,52
+frozen smoothie + olive oil,2,0.006932409012131715,52
+grated cheese + pancakes,2,0.006932409012131715,52
+pancakes + whole wheat rice,2,0.006932409012131715,52
+soup + tomatoes,2,0.006932409012131715,52
+burgers + milk + mineral water,3,0.006932409012131715,52
+chicken + mineral water + spaghetti,3,0.006932409012131715,52
+chocolate + green tea + mineral water,3,0.006932409012131715,52
+eggs + french fries + mineral water,3,0.006932409012131715,52
+eggs + green tea + mineral water,3,0.006932409012131715,52
+chicken + cooking oil,2,0.006799093454206106,51
+cooking oil + frozen vegetables,2,0.006799093454206106,51
+energy bar + mineral water,2,0.006799093454206106,51
+fresh bread + frozen vegetables,2,0.006799093454206106,51
+fresh tuna + spaghetti,2,0.006799093454206106,51
+frozen vegetables + grated cheese,2,0.006799093454206106,51
+ground beef + honey,2,0.006799093454206106,51
+low fat yogurt + olive oil,2,0.006799093454206106,51
+pancakes + soup,2,0.006799093454206106,51
+parmesan cheese + spaghetti,2,0.006799093454206106,51
+chocolate + pancakes + spaghetti,3,0.006799093454206106,51
+frozen smoothie + mineral water + spaghetti,3,0.006799093454206106,51
+mineral water + salmon + spaghetti,3,0.006799093454206106,51
+brownies + green tea,2,0.006665777896280496,50
+burgers + low fat yogurt,2,0.006665777896280496,50
+cereals + spaghetti,2,0.006665777896280496,50
+champagne + eggs,2,0.006665777896280496,50
+champagne + spaghetti,2,0.006665777896280496,50
+chicken + frozen smoothie,2,0.006665777896280496,50
+cooking oil + tomatoes,2,0.006665777896280496,50
+green tea + hot dogs,2,0.006665777896280496,50
+honey + pancakes,2,0.006665777896280496,50
+chicken + milk + mineral water,3,0.006665777896280496,50
+eggs + pancakes + spaghetti,3,0.006665777896280496,50
+frozen vegetables + spaghetti + tomatoes,3,0.006665777896280496,50
+ground beef + herb & pepper + mineral water,3,0.006665777896280496,50
+ground beef + mineral water + olive oil,3,0.006665777896280496,50
+pet food,1,0.006532462338354886,49
+almonds + eggs,2,0.006532462338354886,49
+cake + chicken,2,0.006532462338354886,49
+cake + olive oil,2,0.006532462338354886,49
+cereals + green tea,2,0.006532462338354886,49
+cooking oil + low fat yogurt,2,0.006532462338354886,49
+frozen smoothie + tomatoes,2,0.006532462338354886,49
+grated cheese + herb & pepper,2,0.006532462338354886,49
+ground beef + pepper,2,0.006532462338354886,49
+low fat yogurt + whole wheat rice,2,0.006532462338354886,49
+tomatoes + turkey,2,0.006532462338354886,49
+burgers + mineral water + spaghetti,3,0.006532462338354886,49
+chocolate + eggs + ground beef,3,0.006532462338354886,49
+french fries + mineral water + pancakes,3,0.006532462338354886,49
+frozen vegetables + mineral water + olive oil,3,0.006532462338354886,49
+milk + mineral water + tomatoes,3,0.006532462338354886,49
+burgers + olive oil,2,0.006399146780429276,48
+cake + frozen smoothie,2,0.006399146780429276,48
+chicken + tomatoes,2,0.006399146780429276,48
+chocolate + pepper,2,0.006399146780429276,48
+cottage cheese + green tea,2,0.006399146780429276,48
+fresh bread + green tea,2,0.006399146780429276,48
+green tea + herb & pepper,2,0.006399146780429276,48
+meatballs + spaghetti,2,0.006399146780429276,48
+shrimp + turkey,2,0.006399146780429276,48
+burgers + chocolate + spaghetti,3,0.006399146780429276,48
+burgers + milk + spaghetti,3,0.006399146780429276,48
+cake + french fries + mineral water,3,0.006399146780429276,48
+cake + milk + mineral water,3,0.006399146780429276,48
+chocolate + shrimp + spaghetti,3,0.006399146780429276,48
+cooking oil + eggs + mineral water,3,0.006399146780429276,48
+french fries + milk + spaghetti,3,0.006399146780429276,48
+green tea + ground beef + spaghetti,3,0.006399146780429276,48
+ground beef + herb & pepper + spaghetti,3,0.006399146780429276,48
+ground beef + pancakes + spaghetti,3,0.006399146780429276,48
+mineral water + spaghetti + turkey,3,0.006399146780429276,48
+soda,1,0.006265831222503666,47
+sparkling water,1,0.006265831222503666,47
+avocado + green tea,2,0.006265831222503666,47
+burgers + chicken,2,0.006265831222503666,47
+burgers + honey,2,0.006265831222503666,47
+burgers + soup,2,0.006265831222503666,47
+butter + spaghetti,2,0.006265831222503666,47
+chicken + shrimp,2,0.006265831222503666,47
+chocolate + ham,2,0.006265831222503666,47
+chocolate + whole wheat pasta,2,0.006265831222503666,47
+eggs + ham,2,0.006265831222503666,47
+frozen vegetables + salmon,2,0.006265831222503666,47
+grated cheese + olive oil,2,0.006265831222503666,47
+green tea + tomato juice,2,0.006265831222503666,47
+light mayo + mineral water,2,0.006265831222503666,47
+low fat yogurt + shrimp,2,0.006265831222503666,47
+spaghetti + tomato sauce,2,0.006265831222503666,47
+grated cheese + mineral water + spaghetti,3,0.006265831222503666,47
+mineral water + spaghetti + whole wheat rice,3,0.006265831222503666,47
+chili,1,0.0061325156645780565,46
+mayonnaise,1,0.0061325156645780565,46
+butter + eggs,2,0.0061325156645780565,46
+butter + french fries,2,0.0061325156645780565,46
+butter + milk,2,0.0061325156645780565,46
+cake + soup,2,0.0061325156645780565,46
+chocolate + oil,2,0.0061325156645780565,46
+energy drink + french fries,2,0.0061325156645780565,46
+fresh bread + ground beef,2,0.0061325156645780565,46
+chocolate + ground beef + milk,3,0.0061325156645780565,46
+eggs + low fat yogurt + mineral water,3,0.0061325156645780565,46
+french fries + frozen vegetables + mineral water,3,0.0061325156645780565,46
+french fries + green tea + mineral water,3,0.0061325156645780565,46
+frozen smoothie + milk + mineral water,3,0.0061325156645780565,46
+frozen vegetables + mineral water + pancakes,3,0.0061325156645780565,46
+ground beef + olive oil + spaghetti,3,0.0061325156645780565,46
+milk + mineral water + turkey,3,0.0061325156645780565,46
+pickles,1,0.005999200106652446,45
+almonds + chocolate,2,0.005999200106652446,45
+almonds + spaghetti,2,0.005999200106652446,45
+chicken + soup,2,0.005999200106652446,45
+cooking oil + shrimp,2,0.005999200106652446,45
+eggs + french wine,2,0.005999200106652446,45
+frozen smoothie + whole wheat rice,2,0.005999200106652446,45
+frozen vegetables + herb & pepper,2,0.005999200106652446,45
+low fat yogurt + tomatoes,2,0.005999200106652446,45
+tomatoes + whole wheat rice,2,0.005999200106652446,45
+burgers + eggs + green tea,3,0.005999200106652446,45
+frozen vegetables + shrimp + spaghetti,3,0.005999200106652446,45
+ground beef + shrimp + spaghetti,3,0.005999200106652446,45
+herb & pepper + mineral water + spaghetti,3,0.005999200106652446,45
+burger sauce,1,0.005865884548726837,44
+chocolate + tomato juice,2,0.005865884548726837,44
+cottage cheese + french fries,2,0.005865884548726837,44
+eggs + fresh tuna,2,0.005865884548726837,44
+escalope + pancakes,2,0.005865884548726837,44
+escalope + pasta,2,0.005865884548726837,44
+french fries + salmon,2,0.005865884548726837,44
+frozen smoothie + honey,2,0.005865884548726837,44
+green tea + salmon,2,0.005865884548726837,44
+herb & pepper + low fat yogurt,2,0.005865884548726837,44
+mineral water + mint,2,0.005865884548726837,44
+shrimp + whole wheat rice,2,0.005865884548726837,44
+eggs + ground beef + milk,3,0.005865884548726837,44
+eggs + mineral water + olive oil,3,0.005865884548726837,44
+frozen vegetables + mineral water + tomatoes,3,0.005865884548726837,44
+milk + spaghetti + tomatoes,3,0.005865884548726837,44
+burgers + cooking oil,2,0.005732568990801226,43
+cooking oil + grated cheese,2,0.005732568990801226,43
+cooking oil + turkey,2,0.005732568990801226,43
+eggs + honey,2,0.005732568990801226,43
+escalope + mushroom cream sauce,2,0.005732568990801226,43
+extra dark chocolate + mineral water,2,0.005732568990801226,43
+french fries + strawberries,2,0.005732568990801226,43
+honey + turkey,2,0.005732568990801226,43
+low fat yogurt + soup,2,0.005732568990801226,43
+milk + tomato juice,2,0.005732568990801226,43
+mineral water + tomato sauce,2,0.005732568990801226,43
+oil + spaghetti,2,0.005732568990801226,43
+olive oil + salmon,2,0.005732568990801226,43
+burgers + chocolate + mineral water,3,0.005732568990801226,43
+chocolate + cooking oil + mineral water,3,0.005732568990801226,43
+chocolate + eggs + frozen vegetables,3,0.005732568990801226,43
+chocolate + frozen vegetables + ground beef,3,0.005732568990801226,43
+chocolate + low fat yogurt + mineral water,3,0.005732568990801226,43
+chocolate + mineral water + tomatoes,3,0.005732568990801226,43
+eggs + frozen vegetables + spaghetti,3,0.005732568990801226,43
+eggs + green tea + spaghetti,3,0.005732568990801226,43
+french fries + frozen vegetables + milk,3,0.005732568990801226,43
+french fries + pancakes + spaghetti,3,0.005732568990801226,43
+frozen vegetables + ground beef + milk,3,0.005732568990801226,43
+frozen vegetables + olive oil + spaghetti,3,0.005732568990801226,43
+green tea + milk + mineral water,3,0.005732568990801226,43
+green tea + mineral water + pancakes,3,0.005732568990801226,43
+mint green tea,1,0.005599253432875617,42
+avocado + eggs,2,0.005599253432875617,42
+burgers + cookies,2,0.005599253432875617,42
+burgers + ham,2,0.005599253432875617,42
+cereals + chocolate,2,0.005599253432875617,42
+cottage cheese + eggs,2,0.005599253432875617,42
+energy drink + mineral water,2,0.005599253432875617,42
+french fries + ham,2,0.005599253432875617,42
+french fries + vegetables mix,2,0.005599253432875617,42
+grated cheese + low fat yogurt,2,0.005599253432875617,42
+mineral water + yogurt cake,2,0.005599253432875617,42
+shrimp + soup,2,0.005599253432875617,42
+spaghetti + vegetables mix,2,0.005599253432875617,42
+burgers + french fries + milk,3,0.005599253432875617,42
+burgers + french fries + spaghetti,3,0.005599253432875617,42
+cake + chocolate + mineral water,3,0.005599253432875617,42
+chocolate + eggs + pancakes,3,0.005599253432875617,42
+chocolate + escalope + mineral water,3,0.005599253432875617,42
+chocolate + french fries + frozen vegetables,3,0.005599253432875617,42
+chocolate + mineral water + soup,3,0.005599253432875617,42
+eggs + mineral water + turkey,3,0.005599253432875617,42
+french fries + ground beef + spaghetti,3,0.005599253432875617,42
+frozen smoothie + milk + spaghetti,3,0.005599253432875617,42
+ground beef + spaghetti + tomatoes,3,0.005599253432875617,42
+low fat yogurt + mineral water + spaghetti,3,0.005599253432875617,42
+brownies + cake,2,0.005465937874950006,41
+brownies + milk,2,0.005465937874950006,41
+brownies + pancakes,2,0.005465937874950006,41
+burgers + grated cheese,2,0.005465937874950006,41
+chicken + whole wheat rice,2,0.005465937874950006,41
+chocolate + hot dogs,2,0.005465937874950006,41
+cooking oil + whole wheat rice,2,0.005465937874950006,41
+eggs + light mayo,2,0.005465937874950006,41
+energy bar + milk,2,0.005465937874950006,41
+escalope + frozen smoothie,2,0.005465937874950006,41
+escalope + tomatoes,2,0.005465937874950006,41
+french fries + whole wheat pasta,2,0.005465937874950006,41
+frozen vegetables + parmesan cheese,2,0.005465937874950006,41
+light mayo + pancakes,2,0.005465937874950006,41
+meatballs + milk,2,0.005465937874950006,41
+burgers + chocolate + eggs,3,0.005465937874950006,41
+burgers + chocolate + milk,3,0.005465937874950006,41
+burgers + french fries + green tea,3,0.005465937874950006,41
+burgers + ground beef + spaghetti,3,0.005465937874950006,41
+chicken + milk + spaghetti,3,0.005465937874950006,41
+chocolate + eggs + green tea,3,0.005465937874950006,41
+chocolate + french fries + pancakes,3,0.005465937874950006,41
+chocolate + milk + shrimp,3,0.005465937874950006,41
+ground beef + mineral water + tomatoes,3,0.005465937874950006,41
+black tea + mineral water,2,0.005332622317024397,40
+carrots + mineral water,2,0.005332622317024397,40
+champagne + milk,2,0.005332622317024397,40
+chocolate + rice,2,0.005332622317024397,40
+cookies + low fat yogurt,2,0.005332622317024397,40
+cooking oil + escalope,2,0.005332622317024397,40
+cooking oil + herb & pepper,2,0.005332622317024397,40
+cooking oil + soup,2,0.005332622317024397,40
+french fries + muffins,2,0.005332622317024397,40
+french fries + red wine,2,0.005332622317024397,40
+fresh bread + pancakes,2,0.005332622317024397,40
+ground beef + tomato sauce,2,0.005332622317024397,40
+honey + tomatoes,2,0.005332622317024397,40
+light cream + spaghetti,2,0.005332622317024397,40
+olive oil + turkey,2,0.005332622317024397,40
+burgers + eggs + milk,3,0.005332622317024397,40
+burgers + ground beef + mineral water,3,0.005332622317024397,40
+chocolate + frozen vegetables + shrimp,3,0.005332622317024397,40
+eggs + herb & pepper + mineral water,3,0.005332622317024397,40
+french fries + frozen vegetables + spaghetti,3,0.005332622317024397,40
+french fries + green tea + spaghetti,3,0.005332622317024397,40
+french fries + ground beef + mineral water,3,0.005332622317024397,40
+grated cheese + ground beef + spaghetti,3,0.005332622317024397,40
+hand protein bar,1,0.005199306759098787,39
+almonds + burgers,2,0.005199306759098787,39
+almonds + milk,2,0.005199306759098787,39
+chicken + fresh bread,2,0.005199306759098787,39
+chocolate + french wine,2,0.005199306759098787,39
+cookies + pancakes,2,0.005199306759098787,39
+cottage cheese + pancakes,2,0.005199306759098787,39
+eggs + energy bar,2,0.005199306759098787,39
+escalope + whole wheat rice,2,0.005199306759098787,39
+fresh bread + shrimp,2,0.005199306759098787,39
+grated cheese + salmon,2,0.005199306759098787,39
+green tea + pepper,2,0.005199306759098787,39
+green tea + whole wheat pasta,2,0.005199306759098787,39
+burgers + french fries + mineral water,3,0.005199306759098787,39
+cake + chocolate + spaghetti,3,0.005199306759098787,39
+chicken + eggs + mineral water,3,0.005199306759098787,39
+chocolate + escalope + french fries,3,0.005199306759098787,39
+chocolate + french fries + green tea,3,0.005199306759098787,39
+chocolate + milk + olive oil,3,0.005199306759098787,39
+eggs + french fries + frozen vegetables,3,0.005199306759098787,39
+eggs + mineral water + shrimp,3,0.005199306759098787,39
+eggs + spaghetti + turkey,3,0.005199306759098787,39
+green tea + ground beef + mineral water,3,0.005199306759098787,39
+green tea + milk + spaghetti,3,0.005199306759098787,39
+mineral water + olive oil + soup,3,0.005199306759098787,39
+almonds + green tea,2,0.005065991201173177,38
+avocado + frozen smoothie,2,0.005065991201173177,38
+champagne + pancakes,2,0.005065991201173177,38
+chocolate + light mayo,2,0.005065991201173177,38
+chocolate + tomato sauce,2,0.005065991201173177,38
+cooking oil + olive oil,2,0.005065991201173177,38
+eggs + tomato juice,2,0.005065991201173177,38
+french fries + yogurt cake,2,0.005065991201173177,38
+fresh bread + olive oil,2,0.005065991201173177,38
+fresh tuna + pancakes,2,0.005065991201173177,38
+frozen smoothie + salmon,2,0.005065991201173177,38
+green tea + vegetables mix,2,0.005065991201173177,38
+herb & pepper + olive oil,2,0.005065991201173177,38
+low fat yogurt + turkey,2,0.005065991201173177,38
+milk + pepper,2,0.005065991201173177,38
+mineral water + nonfat milk,2,0.005065991201173177,38
+mineral water + strawberries,2,0.005065991201173177,38
+pasta + shrimp,2,0.005065991201173177,38
+protein bar + spaghetti,2,0.005065991201173177,38
+rice + spaghetti,2,0.005065991201173177,38
+chocolate + frozen smoothie + mineral water,3,0.005065991201173177,38
+eggs + mineral water + tomatoes,3,0.005065991201173177,38
+eggs + olive oil + spaghetti,3,0.005065991201173177,38
+frozen vegetables + mineral water + soup,3,0.005065991201173177,38
+grated cheese + ground beef + mineral water,3,0.005065991201173177,38
+ground beef + mineral water + shrimp,3,0.005065991201173177,38
+ground beef + mineral water + soup,3,0.005065991201173177,38
+milk + mineral water + whole wheat rice,3,0.005065991201173177,38
+olive oil + pancakes + spaghetti,3,0.005065991201173177,38

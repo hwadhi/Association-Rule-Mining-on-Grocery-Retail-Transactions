@@ -1,0 +1,15 @@
+# Tested versions are shown in the comments; lower bounds are the minimum required.
+pandas>=2.0        # tested: 3.0.6
+numpy>=1.24        # tested: 2.5.4
+scipy>=1.10        # tested: 1.18.1
+matplotlib>=3.7    # tested: 3.11.2
+seaborn>=0.12      # tested: 0.13.2
+plotly>=5.15       # tested: 7.1.0
+networkx>=3.0      # tested: 3.7
+mlxtend>=0.23      # tested: 0.25.0
+# Notebook execution
+jupyter
+ipykernel
+nbformat>=5.9      # tested: 5.11.1
+nbclient
+nbconvert
