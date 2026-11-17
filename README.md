@@ -27,8 +27,8 @@ suggest additional products for a selected basket.
 
 ## Dataset
 - File: `data/original_dataset.csv` (original name: `store_data_association_rules.csv`)
-- Source: [add publisher / download link here]
-- License / usage: [add licence or "publicly available for educational use"]
+- Source: (https://github.com/SavioSal/datasets/blob/master/store_data_association_rules.csv)
+- License / usage: "publicly available for educational use"
 - 7,501 transactions, 119 distinct products, no header row, average basket size about 3.9
 - No personal or customer-identifying information (no customer IDs, names or timestamps)
 
@@ -55,11 +55,11 @@ suggest additional products for a selected basket.
 ## Results
 | Metric | Value |
 |---|---|
-| Precision@5 | [paste from notebook] |
-| Recall@5 | [paste from notebook] |
-| Hit Rate@5 | [paste from notebook] |
-| Coverage | [paste from notebook] |
-
+| Precision@5 | 0.147 |
+| Recall@5 | 0.242 |
+| Hit Rate@5 | 0.512 |
+| Coverage | 0.914 |
+“About 51% of test baskets received at least one correct recommendation in the top 5, and 91% of baskets received rule-based recommendations. Precision is low because baskets are short (about 4 items), so few items can be relevant.”
 Example: selecting *burgers* or *ground beef* returns products with
 confidence, lift and support. Apriori and FP-Growth produce identical
 itemsets; FP-Growth is faster at low support.
